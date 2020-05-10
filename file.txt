@@ -1,0 +1,4 @@
+name	age	gender
+resh	12	f
+sha	13	m
+helo this is meanstack development
